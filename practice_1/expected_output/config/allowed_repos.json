@@ -1,0 +1,6 @@
+{
+  "allowed_repos": [
+    "/home/user/projects",
+    "/tmp/test-repo"
+  ]
+}
