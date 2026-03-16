@@ -1,0 +1,4 @@
+{
+    "ttl_seconds": 300,
+    "allowed_api_keys": ["dev-key-1"]
+}
